@@ -7,4 +7,9 @@
 Save Sg Hypothetical.docx as Plain Text (.txt),\
 Text encoding: Other encoding: Western (ASCII),\
 End lines with: CR/LF
+```
+vim Sg_Hypothetical.txt
+:set fileformat=unix
+:w
+```
 
