@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Paul Evans
-#  2 January 2018
+#  4 January 2018
 # 25 October 2015
 #
 if [ -f Gratian3.txt ];
@@ -13,4 +13,4 @@ do
     file=cases/"Sg $line".txt
     cat "$file" >> Gratian3.txt
 done < toc_cases.txt
-# shasum -c Gratian3.sha1
+shasum -c Gratian3.sha1
