@@ -1,5 +1,7 @@
+C.Prima d.init
 C.1 d.init
 C.2 d.init
+C.3 d.init
 C.4 d.init
 C.5 d.init
 C.6 d.init
